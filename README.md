@@ -1,7 +1,7 @@
 
- Marvel Movies Frontend Website
+ ##Marvel Movies Frontend Website
 
- Overview
+ ##Overview
 
 This is a frontend web application built using *HTML, **CSS, and **JavaScript*. The website showcases Marvel movies, including details such as the movie names, release years, durations, and information about upcoming Marvel movies.
 
